@@ -1,1 +1,1 @@
-Open two terminals and run these codes separately in those terminals in tandem
+Open two terminals and run these two python codes separately in those terminals 
